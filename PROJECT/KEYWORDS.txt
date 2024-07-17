@@ -1,0 +1,1 @@
+KEYWORDS: Personal Finance Management, Expense Tracking, Budget Management, Flutter, Sqflite, Data Visualization, Automated Transaction Detection, Cross-Platform Application, User Authentication, Financial Analytics.

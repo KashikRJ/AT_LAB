@@ -1,0 +1,17 @@
+The YNAB app introduces several innovative features and efficiencies that contribute to the broader Sustainable Development Goals (SDGs), particularly those focused on promoting economic growth and ensuring responsible consumption and production patterns. Here's how the app stands out:
+
+- **Convenient Expense Tracking**: The app simplifies personal finance management by allowing users to easily track and record their expenses, aligning with SDG targets on promoting financial literacy and inclusion.
+  
+- **Categorization of Expenses**: By enabling users to categorize their spending, the app fosters awareness and encourages responsible consumption patterns, directly supporting SDG goals related to sustainable economic growth and consumption.
+
+- **Budget Setting and Monitoring**: The app's feature to set and monitor budgets for various categories aids in fostering responsible financial planning and management, contributing to economic stability and sustainable consumption.
+
+- **Detailed Reports and Analytics**: Providing users with comprehensive reports and analytics on their spending habits empowers them with the knowledge to make informed decisions, promoting economic growth and ensuring patterns of consumption that are more sustainable.
+
+- **Search and Filter Capabilities**: The ease of searching and filtering expenses enhances the user experience, making financial management more accessible and efficient, thereby supporting broader financial inclusion goals.
+
+- **Data Export for Analysis**: By allowing the export of expense data, the app facilitates deeper financial analysis and planning, promoting sustainable economic growth through informed decision-making.
+
+- **Automated SMS Reading**: This feature streamlines the tracking of expenses by automatically capturing and categorizing financial transactions from SMS alerts, enhancing the app's efficiency and user-friendliness.
+
+Overall, the YNAB app's features not only make personal finance management more accessible and effective but also support the achievement of several SDGs by promoting financial literacy, sustainable consumption, and responsible production.

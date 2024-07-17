@@ -1,0 +1,26 @@
+FinTracker - Expense Tracker App
+
+FinTracker is a Flutter application that helps you track your expenses and manage category budgets. It provides a user-friendly interface to enter and categorize your expenses, giving you insights into your spending habits and helping you stay within your budget.
+
+Features
+Track and record your expenses conveniently.
+Categorize your expenses into different categories.
+Set monthly budgets for each category and monitor your spending.
+View detailed expense reports and statistics.
+Easily search and filter your expenses.
+Export expense data for further analysis.
+Automated SMS Reading 
+
+On Opening the app for the first time, there will be an onboarding screen which will briefly explain the app to the user. On clicking "Get Started",  it'll ask the user to login/register. Upon succesful login attempt, user will be redirected to the main home page. It will have a bottom navigation bar consisting of Home, Payments, Accounts, Categories, Analyze.
+Home will show the overview balance of all the accounts, show all the payments in the specified time period, total expense and total income.
+Clicking on a payment will take you to the edit payment page where it can be edited or deleted.
+On the payments page you will have a list of all payments just like in the home page. There is a Floating action button, clicking it will take you to create payment page. On create payment page, details such as Title, amount, category, account, description can be entered and hence a payemnt will be created.
+On the accounts page you can see all the accounts at once, edit the name,color, number etc of the accounts. You can add and delete accounts too.
+On the category page, there's a list of categories like food, transportation, insurance etc you can edit them create more of them, delete.
+You can also set a budget for a particular category by clicking on a category. Doing this will show a progress bar kind of thing which will show much you have spent on a category and how much more you can spend in future.
+On analyzze page you can analyse your spendings on basis of category, date, accounts etc. It will show bar or pie charts depending on what user selected.
+There's also a unique feature in this app called ASR (Automatic SMS Reading) which autmatically detects a transaction taken place by reading sms from users phone, adds it to the app, later you can edit if user wants.
+
+
+tech stack:
+Flutter, sqflite for database
